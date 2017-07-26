@@ -105,7 +105,7 @@ ul {
 
 .list-inline li {
     display: inline-block;
-    padding: 20px;
+    padding: 20px 40px;
 }
 
 .top-padding {
@@ -114,8 +114,8 @@ ul {
 }
 
 .fa {
-  font-size: 24px;
-  color: #7d7d7d;
+  font-size: 30px;
+  color: #544e4e;
 }
 
 .fa:hover {
