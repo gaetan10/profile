@@ -1,0 +1,112 @@
+#hobbies img {
+  width: 200px;
+  height: auto;
+  border-radius: 2%;
+
+}
+
+body {
+font-family: 'Slabo 27px', serif;
+font-weight: 300;
+font-size: 15px;
+}
+body {
+    background: #EBEBEB;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #7d7d7d;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+h3 {
+    color: #544e4e;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.card {
+  box-shadow:  0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  padding-left: 15px;
+  padding-top: 1px;
+  padding-right: 5px;
+  padding-bottom: 2px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+/*table {
+    background-color: white;
+    padding-left: 15px;
+    padding-top: 1px;
+    padding-right: 5px;
+    border-radius: 1%;
+}*/
+
+.img-circle {
+  width: 200px;
+  height: auto;
+  border-radius: 50%
+}
+
+.big {
+  font-size: 50px;
+}
+
+ul {
+  list-style: none;
+  display: block;
+}
+
+.list-inline li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.top-padding {
+  padding-top: 1%;
+  padding-bottom: 16px;
+}
+
+.fa {
+  font-size: 24px;
+  color: #7d7d7d;
+}
+
+.fa:hover {
+  color: #DD5555 ;
+}
+
+a {
+  text-decoration: none;
+  color: #211f1f;
+  font-weight: 400;
+}
+
+a:hover {
+  color: #DD5555;
+}
+
+div {
+  display: block;
+}
+
+
+
+.btn-red {
+  background-color: #DD5555;
+  color:white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+  border-color: black;
+}
